@@ -4,7 +4,9 @@
     , "description": "Restify Boilerplate project for NodeJS Rest Services"
     , "main": "index.js"
     , "scripts": {
-        "test": "npm index.js"
+        "test": "npm index.js",
+        
+        "start": "node index.js"
     }
     , "repository": {
         "type": "git"
