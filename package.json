@@ -1,0 +1,32 @@
+{
+    "name": "restify-boilerplate"
+    , "version": "1.0.0"
+    , "description": "Restify Boilerplate project for NodeJS Rest Services"
+    , "main": "index.js"
+    , "scripts": {
+        "test": "npm index.js"
+    }
+    , "repository": {
+        "type": "git"
+        , "url": "git+https://github.com/theCodeMachine/restify-boilerplate.git"
+    }
+    , "keywords": [
+    "Restify"
+    , "REST"
+    , "NodeJS"
+    , "API"
+  ]
+    , "author": "Rahul Luthra"
+    , "license": "UNLICENSED"
+    , "bugs": {
+        "url": "https://github.com/theCodeMachine/restify-boilerplate/issues"
+    }
+    , "homepage": "https://github.com/theCodeMachine/restify-boilerplate#readme"
+    , "dependencies": {
+        "bunyan-winston-adapter": "^0.2.0"
+        , "lodash": "^4.17.4"
+        , "restify": "^5.2.0"
+        , "restify-errors": "^5.0.0"
+        , "winston": "^2.3.1"
+    }
+}
